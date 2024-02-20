@@ -1,0 +1,18 @@
+#homeid
+{
+    flex:1;
+    display: flex;
+    background-color: blueviolet;
+    flex-direction: row;
+    float:left;
+}
+#home_admindiv
+{
+   flex:1;
+   width:600px;
+}
+#home_userdiv
+{
+    flex:1;
+    width:300px;
+}
