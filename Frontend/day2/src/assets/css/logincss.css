@@ -1,0 +1,109 @@
+.Logindiv
+{
+    background-image: url(../pics/480706.jpg);
+    height:100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    opacity: 0.8;
+    text-decoration: solid;
+}
+#logh4iderror
+{
+    margin-left: 30px;
+}
+#lbtn
+{
+    height:40px;
+    width:60px;
+    /* line-height: 40px; */
+    border-radius: 10px;
+    margin-left: 150px;
+    color:red;
+    background-color: lightcyan;
+    justify-content: center;
+    text-align: center;
+    opacity:1;
+}
+#h3id
+{
+    margin-left: 40px;
+}
+#h2id
+{
+    margin-right: 0px;
+    color:crimson;
+    /* line-height: 20px; */
+}
+#lbtn:hover
+{
+    background-color:paleturquoise;
+    /* color:yellow; */
+}
+.logi
+{
+    background-color: lightgray;
+    border-radius: 10px;
+    height:510px;
+    width:350px;
+    /* opacity: 0.5; */
+    color:darkcyan;
+    margin-left: 550px;
+    margin-top: 100px;
+}
+#uiid
+{
+    margin-left: 15px;
+    height:25px;
+    border-radius: 10px;
+    border-color: palevioletred;
+}
+#piid
+{
+    margin-left: 18px;
+    height:25px;
+    border-radius: 10px;
+    border-color: palevioletred;
+}
+#userid,#passwordid
+{
+    margin-left: 30px;
+    color:black;
+}
+.logi:hover
+{
+    transition: 1s;
+    /* background-color:lightcoral; */
+}
+#l1,#l2
+{
+    line-height: 40px;
+}
+#emojiid
+{
+    margin-left: 10px;
+}
+#forgotpassword
+{
+    margin-top: 6px;
+    margin-left: 100px;
+    line-height: 20px;
+}
+#upid
+{
+    height:30px;
+    width:60px;
+    border-radius: 7px;
+    color:indigo;
+    /* background-color: darkorange; */
+    border-color: cornflowerblue;
+    margin-left: 140px;
+}
+#upid:hover{
+    background-color: white;
+    
+}
+/* #l3
+{
+    margin-left: 80px;
+} */

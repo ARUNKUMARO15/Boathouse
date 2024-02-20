@@ -1,0 +1,38 @@
+#homeid
+{
+    display: flex;
+    flex-direction: row;
+    height:100vh;
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+#home_admindiv
+{
+   flex:1;
+}
+#home_userdiv
+{
+    flex:1;
+
+}
+#home_adminpic
+{
+    width:400px;
+    padding:140px;
+    margin-left: 100px;
+
+}
+#home_adminpic:hover,#home_userpic:hover
+{
+    opacity:0.8;
+    cursor:pointer;
+    transition: transform 0.5s ease;
+    transform: scale(1.1);
+}
+#home_userpic
+{
+    width:500px;
+    height:400px;
+    margin-left: 100px;
+    margin-top: 150px;
+}

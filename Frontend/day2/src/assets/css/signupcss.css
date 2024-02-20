@@ -1,0 +1,122 @@
+.signupdiv
+{
+    /* color: azure; */
+    color:red;
+    background-image:url(../pics/equipment.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:100vh;
+    display: flex;
+    width:100%;
+}
+.sform:hover{
+    background-color:lightyellow;
+    /* opacity: 0.8    ; */
+    transition: 1s;
+}
+#h2id {
+    /* margin-left: 200px; */
+    text-align: center;
+}
+#t2
+{
+    display: inline-block;
+}
+#siname,#siemail,#sipassword,#sicontact
+{
+    border-color: aqua;
+    /* margin-left: 30px; */
+    line-height: 20px;
+    border-radius: 10px;
+    height:30px;
+    width:230px;  
+}
+
+#siname
+{
+    margin-left: 57px;
+}
+#siemail
+{
+    margin-left: 40px;
+}
+#bid
+{
+    margin-left: 200px;
+    background-color: lightcoral;
+    border-radius: 10px;
+    height:30px;
+    width:60px;
+}
+#sname,#semail,#spassword,#scontact
+{
+    margin-left: 5px;
+}
+#sipassword
+{
+    margin-left: 30px;
+}
+#sipassword:focus{
+    background-color: cornsilk;
+}
+#sicontact
+{
+    margin-left: 40px;
+    line-height: 5px;
+}
+#sbtn
+{
+    border-radius: 10px;
+    border-color: darkblue;
+    height:34px;
+    width:90px;
+    margin-left: 180px;
+    line-height: 25px;
+    
+}
+#sbtn:hover{
+    background-color:navy;
+    color:white;
+    transition: 1s;
+}
+.dc-1
+{
+    padding:20px;
+    
+    
+}
+#move
+{
+    margin-top: 20px;
+    margin-left: 150px;
+    line-height: 64px;
+}
+.sform{
+    
+    justify-content: center;
+    text-decoration: solid;
+    background-color:white;
+    width:500px;
+    height:620px;
+    color:green;
+   margin-top: 80px;
+    margin-left: 750px;
+    opacity: 0.8;
+    border-radius: 03%;
+}
+
+#intro
+{
+    margin-left: 100px;
+}
+#inputs
+{
+    color:white;
+}
+#t1,#t2,#t3,#t4
+{
+    display:flex;  
+    line-height: 33px; 
+    margin-right: 90px;
+}
